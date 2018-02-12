@@ -10,6 +10,7 @@
 using namespace std;
 
 int main() {
-	cout << "!!!hello world first application *******!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!hello world *******!!" << endl; // prints !!!Hello World!!!
+	cout<<"commit from develop branch" << endl;
 	return 0;
 }
